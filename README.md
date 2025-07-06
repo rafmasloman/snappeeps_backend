@@ -1,1 +1,1 @@
-# snappeeps_backend
+# API SnapPeeps Backend
